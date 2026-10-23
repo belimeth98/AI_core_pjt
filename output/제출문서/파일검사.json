@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "official_rows_preserved": 27,
+  "filename_references_verified": true,
+  "individual_png_files": 13,
+  "self_results": {
+    "통과": 21,
+    "해당없음": 3,
+    "미확인": 3
+  },
+  "blank_result_count": 0,
+  "unchecked_items": [
+    20,
+    25,
+    27
+  ],
+  "author_fields": "미기입",
+  "peer_review": "미실시",
+  "additional_gms_requests": 0,
+  "spreadsheet_totals": [
+    21,
+    0,
+    3,
+    3,
+    0,
+    27
+  ],
+  "dropdown_and_formulas_preserved": true,
+  "live_summary_change_test": "통과→미확인에서 집계 20/4, 복원 후 21/3 확인"
+}

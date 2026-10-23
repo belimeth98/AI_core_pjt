@@ -1,0 +1,613 @@
+{
+  "passed": true,
+  "company_count": 100,
+  "section_count": 4856,
+  "large_existing_chunks": 21374,
+  "small_expansion_chunks": 98634,
+  "full_chunk_count": 120008,
+  "api_calls": 0,
+  "store_verified": true,
+  "companies": [
+    {
+      "corp_code": "00126380",
+      "large": 296,
+      "small": 1050,
+      "full": 1346
+    },
+    {
+      "corp_code": "00164742",
+      "large": 234,
+      "small": 1205,
+      "full": 1439
+    },
+    {
+      "corp_code": "00126955",
+      "large": 141,
+      "small": 594,
+      "full": 735
+    },
+    {
+      "corp_code": "00877059",
+      "large": 136,
+      "small": 745,
+      "full": 881
+    },
+    {
+      "corp_code": "00113526",
+      "large": 218,
+      "small": 855,
+      "full": 1073
+    },
+    {
+      "corp_code": "00382199",
+      "large": 519,
+      "small": 2726,
+      "full": 3245
+    },
+    {
+      "corp_code": "00106641",
+      "large": 151,
+      "small": 620,
+      "full": 771
+    },
+    {
+      "corp_code": "00108241",
+      "large": 138,
+      "small": 498,
+      "full": 636
+    },
+    {
+      "corp_code": "00413046",
+      "large": 202,
+      "small": 906,
+      "full": 1108
+    },
+    {
+      "corp_code": "00547583",
+      "large": 466,
+      "small": 3102,
+      "full": 3568
+    },
+    {
+      "corp_code": "00266961",
+      "large": 175,
+      "small": 954,
+      "full": 1129
+    },
+    {
+      "corp_code": "00164788",
+      "large": 163,
+      "small": 853,
+      "full": 1016
+    },
+    {
+      "corp_code": "01238169",
+      "large": 176,
+      "small": 549,
+      "full": 725
+    },
+    {
+      "corp_code": "00138792",
+      "large": 156,
+      "small": 673,
+      "full": 829
+    },
+    {
+      "corp_code": "01350869",
+      "large": 528,
+      "small": 1848,
+      "full": 2376
+    },
+    {
+      "corp_code": "00258801",
+      "large": 239,
+      "small": 1246,
+      "full": 1485
+    },
+    {
+      "corp_code": "00536541",
+      "large": 212,
+      "small": 707,
+      "full": 919
+    },
+    {
+      "corp_code": "00635134",
+      "large": 191,
+      "small": 1314,
+      "full": 1505
+    },
+    {
+      "corp_code": "00129679",
+      "large": 359,
+      "small": 675,
+      "full": 1034
+    },
+    {
+      "corp_code": "00122737",
+      "large": 131,
+      "small": 533,
+      "full": 664
+    },
+    {
+      "corp_code": "00149646",
+      "large": 215,
+      "small": 3549,
+      "full": 3764
+    },
+    {
+      "corp_code": "00261443",
+      "large": 132,
+      "small": 589,
+      "full": 721
+    },
+    {
+      "corp_code": "01160363",
+      "large": 112,
+      "small": 626,
+      "full": 738
+    },
+    {
+      "corp_code": "00120571",
+      "large": 150,
+      "small": 847,
+      "full": 997
+    },
+    {
+      "corp_code": "00145109",
+      "large": 242,
+      "small": 765,
+      "full": 1007
+    },
+    {
+      "corp_code": "00113410",
+      "large": 138,
+      "small": 803,
+      "full": 941
+    },
+    {
+      "corp_code": "00858364",
+      "large": 453,
+      "small": 835,
+      "full": 1288
+    },
+    {
+      "corp_code": "00904672",
+      "large": 152,
+      "small": 702,
+      "full": 854
+    },
+    {
+      "corp_code": "00356361",
+      "large": 213,
+      "small": 970,
+      "full": 1183
+    },
+    {
+      "corp_code": "01258507",
+      "large": 183,
+      "small": 756,
+      "full": 939
+    },
+    {
+      "corp_code": "00878696",
+      "large": 151,
+      "small": 590,
+      "full": 741
+    },
+    {
+      "corp_code": "00360595",
+      "large": 171,
+      "small": 798,
+      "full": 969
+    },
+    {
+      "corp_code": "00878915",
+      "large": 308,
+      "small": 860,
+      "full": 1168
+    },
+    {
+      "corp_code": "01152470",
+      "large": 129,
+      "small": 494,
+      "full": 623
+    },
+    {
+      "corp_code": "00126362",
+      "large": 167,
+      "small": 754,
+      "full": 921
+    },
+    {
+      "corp_code": "00141529",
+      "large": 145,
+      "small": 647,
+      "full": 792
+    },
+    {
+      "corp_code": "00888347",
+      "large": 176,
+      "small": 584,
+      "full": 760
+    },
+    {
+      "corp_code": "00124504",
+      "large": 229,
+      "small": 990,
+      "full": 1219
+    },
+    {
+      "corp_code": "01515323",
+      "large": 130,
+      "small": 797,
+      "full": 927
+    },
+    {
+      "corp_code": "00989619",
+      "large": 148,
+      "small": 557,
+      "full": 705
+    },
+    {
+      "corp_code": "00149655",
+      "large": 227,
+      "small": 1195,
+      "full": 1422
+    },
+    {
+      "corp_code": "01133217",
+      "large": 125,
+      "small": 794,
+      "full": 919
+    },
+    {
+      "corp_code": "01137383",
+      "large": 135,
+      "small": 659,
+      "full": 794
+    },
+    {
+      "corp_code": "00631518",
+      "large": 453,
+      "small": 1693,
+      "full": 2146
+    },
+    {
+      "corp_code": "00244455",
+      "large": 193,
+      "small": 893,
+      "full": 1086
+    },
+    {
+      "corp_code": "00199252",
+      "large": 273,
+      "small": 758,
+      "full": 1031
+    },
+    {
+      "corp_code": "00181712",
+      "large": 1437,
+      "small": 2242,
+      "full": 3679
+    },
+    {
+      "corp_code": "01244601",
+      "large": 205,
+      "small": 659,
+      "full": 864
+    },
+    {
+      "corp_code": "00204262",
+      "large": 111,
+      "small": 663,
+      "full": 774
+    },
+    {
+      "corp_code": "00138279",
+      "large": 152,
+      "small": 647,
+      "full": 799
+    },
+    {
+      "corp_code": "00583424",
+      "large": 124,
+      "small": 758,
+      "full": 882
+    },
+    {
+      "corp_code": "01061327",
+      "large": 121,
+      "small": 503,
+      "full": 624
+    },
+    {
+      "corp_code": "00120021",
+      "large": 525,
+      "small": 712,
+      "full": 1237
+    },
+    {
+      "corp_code": "00162461",
+      "large": 241,
+      "small": 1191,
+      "full": 1432
+    },
+    {
+      "corp_code": "00356370",
+      "large": 168,
+      "small": 701,
+      "full": 869
+    },
+    {
+      "corp_code": "00159102",
+      "large": 232,
+      "small": 2278,
+      "full": 2510
+    },
+    {
+      "corp_code": "00190321",
+      "large": 259,
+      "small": 952,
+      "full": 1211
+    },
+    {
+      "corp_code": "00165413",
+      "large": 223,
+      "small": 1031,
+      "full": 1254
+    },
+    {
+      "corp_code": "00939331",
+      "large": 235,
+      "small": 529,
+      "full": 764
+    },
+    {
+      "corp_code": "00164973",
+      "large": 171,
+      "small": 2049,
+      "full": 2220
+    },
+    {
+      "corp_code": "00159023",
+      "large": 188,
+      "small": 965,
+      "full": 1153
+    },
+    {
+      "corp_code": "00102858",
+      "large": 230,
+      "small": 933,
+      "full": 1163
+    },
+    {
+      "corp_code": "00428251",
+      "large": 168,
+      "small": 855,
+      "full": 1023
+    },
+    {
+      "corp_code": "00126256",
+      "large": 280,
+      "small": 3053,
+      "full": 3333
+    },
+    {
+      "corp_code": "00231363",
+      "large": 272,
+      "small": 742,
+      "full": 1014
+    },
+    {
+      "corp_code": "00136378",
+      "large": 200,
+      "small": 871,
+      "full": 1071
+    },
+    {
+      "corp_code": "00126186",
+      "large": 144,
+      "small": 834,
+      "full": 978
+    },
+    {
+      "corp_code": "00155276",
+      "large": 152,
+      "small": 573,
+      "full": 725
+    },
+    {
+      "corp_code": "00120526",
+      "large": 263,
+      "small": 1099,
+      "full": 1362
+    },
+    {
+      "corp_code": "00155212",
+      "large": 107,
+      "small": 524,
+      "full": 631
+    },
+    {
+      "corp_code": "00872984",
+      "large": 276,
+      "small": 1000,
+      "full": 1276
+    },
+    {
+      "corp_code": "00120182",
+      "large": 510,
+      "small": 2221,
+      "full": 2731
+    },
+    {
+      "corp_code": "00362441",
+      "large": 104,
+      "small": 655,
+      "full": 759
+    },
+    {
+      "corp_code": "00126478",
+      "large": 105,
+      "small": 873,
+      "full": 978
+    },
+    {
+      "corp_code": "01263022",
+      "large": 151,
+      "small": 656,
+      "full": 807
+    },
+    {
+      "corp_code": "00357740",
+      "large": 97,
+      "small": 600,
+      "full": 697
+    },
+    {
+      "corp_code": "00164830",
+      "large": 208,
+      "small": 847,
+      "full": 1055
+    },
+    {
+      "corp_code": "00140177",
+      "large": 195,
+      "small": 1075,
+      "full": 1270
+    },
+    {
+      "corp_code": "00104856",
+      "large": 208,
+      "small": 2415,
+      "full": 2623
+    },
+    {
+      "corp_code": "00372882",
+      "large": 124,
+      "small": 574,
+      "full": 698
+    },
+    {
+      "corp_code": "00111704",
+      "large": 172,
+      "small": 1096,
+      "full": 1268
+    },
+    {
+      "corp_code": "00165680",
+      "large": 113,
+      "small": 820,
+      "full": 933
+    },
+    {
+      "corp_code": "00296290",
+      "large": 323,
+      "small": 1422,
+      "full": 1745
+    },
+    {
+      "corp_code": "00476498",
+      "large": 118,
+      "small": 865,
+      "full": 983
+    },
+    {
+      "corp_code": "01390344",
+      "large": 179,
+      "small": 877,
+      "full": 1056
+    },
+    {
+      "corp_code": "00298270",
+      "large": 91,
+      "small": 400,
+      "full": 491
+    },
+    {
+      "corp_code": "00159616",
+      "large": 221,
+      "small": 1118,
+      "full": 1339
+    },
+    {
+      "corp_code": "00260930",
+      "large": 128,
+      "small": 634,
+      "full": 762
+    },
+    {
+      "corp_code": "00432102",
+      "large": 269,
+      "small": 1658,
+      "full": 1927
+    },
+    {
+      "corp_code": "00105873",
+      "large": 184,
+      "small": 694,
+      "full": 878
+    },
+    {
+      "corp_code": "00309503",
+      "large": 161,
+      "small": 662,
+      "full": 823
+    },
+    {
+      "corp_code": "00258689",
+      "large": 104,
+      "small": 458,
+      "full": 562
+    },
+    {
+      "corp_code": "00105961",
+      "large": 124,
+      "small": 645,
+      "full": 769
+    },
+    {
+      "corp_code": "00613318",
+      "large": 118,
+      "small": 649,
+      "full": 767
+    },
+    {
+      "corp_code": "00126371",
+      "large": 136,
+      "small": 754,
+      "full": 890
+    },
+    {
+      "corp_code": "00503668",
+      "large": 125,
+      "small": 694,
+      "full": 819
+    },
+    {
+      "corp_code": "01204056",
+      "large": 125,
+      "small": 811,
+      "full": 936
+    },
+    {
+      "corp_code": "00401731",
+      "large": 211,
+      "small": 1638,
+      "full": 1849
+    },
+    {
+      "corp_code": "00302926",
+      "large": 129,
+      "small": 636,
+      "full": 765
+    },
+    {
+      "corp_code": "01596425",
+      "large": 176,
+      "small": 665,
+      "full": 841
+    }
+  ],
+  "issues": []
+}

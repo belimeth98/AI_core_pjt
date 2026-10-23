@@ -1,0 +1,724 @@
+{
+  "completed_at": "2026-10-23T01:01:50.401219+00:00",
+  "company_metadata": {
+    "expected": 100,
+    "updated": 0,
+    "unchanged": 100,
+    "removed_obsolete": 0,
+    "actual": 100
+  },
+  "selected_documents": {
+    "00126380": {
+      "expected": 296,
+      "updated": 0,
+      "unchanged": 296,
+      "removed_obsolete": 0,
+      "actual": 296
+    },
+    "00164742": {
+      "expected": 234,
+      "updated": 0,
+      "unchanged": 234,
+      "removed_obsolete": 0,
+      "actual": 234
+    },
+    "00126955": {
+      "expected": 141,
+      "updated": 0,
+      "unchanged": 141,
+      "removed_obsolete": 0,
+      "actual": 141
+    },
+    "00877059": {
+      "expected": 136,
+      "updated": 0,
+      "unchanged": 136,
+      "removed_obsolete": 0,
+      "actual": 136
+    },
+    "00113526": {
+      "expected": 218,
+      "updated": 0,
+      "unchanged": 218,
+      "removed_obsolete": 0,
+      "actual": 218
+    },
+    "00382199": {
+      "expected": 519,
+      "updated": 0,
+      "unchanged": 519,
+      "removed_obsolete": 0,
+      "actual": 519
+    },
+    "00106641": {
+      "expected": 151,
+      "updated": 0,
+      "unchanged": 151,
+      "removed_obsolete": 0,
+      "actual": 151
+    },
+    "00108241": {
+      "expected": 138,
+      "updated": 0,
+      "unchanged": 138,
+      "removed_obsolete": 0,
+      "actual": 138
+    },
+    "00413046": {
+      "expected": 202,
+      "updated": 0,
+      "unchanged": 202,
+      "removed_obsolete": 0,
+      "actual": 202
+    },
+    "00547583": {
+      "expected": 466,
+      "updated": 0,
+      "unchanged": 466,
+      "removed_obsolete": 0,
+      "actual": 466
+    },
+    "00266961": {
+      "expected": 175,
+      "updated": 0,
+      "unchanged": 175,
+      "removed_obsolete": 0,
+      "actual": 175
+    },
+    "00164788": {
+      "expected": 163,
+      "updated": 0,
+      "unchanged": 163,
+      "removed_obsolete": 0,
+      "actual": 163
+    },
+    "01238169": {
+      "expected": 176,
+      "updated": 0,
+      "unchanged": 176,
+      "removed_obsolete": 0,
+      "actual": 176
+    },
+    "00138792": {
+      "expected": 156,
+      "updated": 0,
+      "unchanged": 156,
+      "removed_obsolete": 0,
+      "actual": 156
+    },
+    "01350869": {
+      "expected": 528,
+      "updated": 0,
+      "unchanged": 528,
+      "removed_obsolete": 0,
+      "actual": 528
+    },
+    "00258801": {
+      "expected": 239,
+      "updated": 0,
+      "unchanged": 239,
+      "removed_obsolete": 0,
+      "actual": 239
+    },
+    "00536541": {
+      "expected": 212,
+      "updated": 0,
+      "unchanged": 212,
+      "removed_obsolete": 0,
+      "actual": 212
+    },
+    "00635134": {
+      "expected": 191,
+      "updated": 0,
+      "unchanged": 191,
+      "removed_obsolete": 0,
+      "actual": 191
+    },
+    "00129679": {
+      "expected": 359,
+      "updated": 0,
+      "unchanged": 359,
+      "removed_obsolete": 0,
+      "actual": 359
+    },
+    "00122737": {
+      "expected": 131,
+      "updated": 0,
+      "unchanged": 131,
+      "removed_obsolete": 0,
+      "actual": 131
+    },
+    "00149646": {
+      "expected": 215,
+      "updated": 0,
+      "unchanged": 215,
+      "removed_obsolete": 0,
+      "actual": 215
+    },
+    "00261443": {
+      "expected": 132,
+      "updated": 0,
+      "unchanged": 132,
+      "removed_obsolete": 0,
+      "actual": 132
+    },
+    "01160363": {
+      "expected": 112,
+      "updated": 0,
+      "unchanged": 112,
+      "removed_obsolete": 0,
+      "actual": 112
+    },
+    "00120571": {
+      "expected": 150,
+      "updated": 0,
+      "unchanged": 150,
+      "removed_obsolete": 0,
+      "actual": 150
+    },
+    "00145109": {
+      "expected": 242,
+      "updated": 0,
+      "unchanged": 242,
+      "removed_obsolete": 0,
+      "actual": 242
+    },
+    "00113410": {
+      "expected": 138,
+      "updated": 0,
+      "unchanged": 138,
+      "removed_obsolete": 0,
+      "actual": 138
+    },
+    "00858364": {
+      "expected": 453,
+      "updated": 0,
+      "unchanged": 453,
+      "removed_obsolete": 0,
+      "actual": 453
+    },
+    "00904672": {
+      "expected": 152,
+      "updated": 0,
+      "unchanged": 152,
+      "removed_obsolete": 0,
+      "actual": 152
+    },
+    "00356361": {
+      "expected": 213,
+      "updated": 0,
+      "unchanged": 213,
+      "removed_obsolete": 0,
+      "actual": 213
+    },
+    "01258507": {
+      "expected": 183,
+      "updated": 0,
+      "unchanged": 183,
+      "removed_obsolete": 0,
+      "actual": 183
+    },
+    "00878696": {
+      "expected": 151,
+      "updated": 0,
+      "unchanged": 151,
+      "removed_obsolete": 0,
+      "actual": 151
+    },
+    "00360595": {
+      "expected": 171,
+      "updated": 0,
+      "unchanged": 171,
+      "removed_obsolete": 0,
+      "actual": 171
+    },
+    "00878915": {
+      "expected": 308,
+      "updated": 0,
+      "unchanged": 308,
+      "removed_obsolete": 0,
+      "actual": 308
+    },
+    "01152470": {
+      "expected": 129,
+      "updated": 0,
+      "unchanged": 129,
+      "removed_obsolete": 0,
+      "actual": 129
+    },
+    "00126362": {
+      "expected": 167,
+      "updated": 0,
+      "unchanged": 167,
+      "removed_obsolete": 0,
+      "actual": 167
+    },
+    "00141529": {
+      "expected": 145,
+      "updated": 0,
+      "unchanged": 145,
+      "removed_obsolete": 0,
+      "actual": 145
+    },
+    "00888347": {
+      "expected": 176,
+      "updated": 0,
+      "unchanged": 176,
+      "removed_obsolete": 0,
+      "actual": 176
+    },
+    "00124504": {
+      "expected": 229,
+      "updated": 0,
+      "unchanged": 229,
+      "removed_obsolete": 0,
+      "actual": 229
+    },
+    "01515323": {
+      "expected": 130,
+      "updated": 0,
+      "unchanged": 130,
+      "removed_obsolete": 0,
+      "actual": 130
+    },
+    "00989619": {
+      "expected": 148,
+      "updated": 0,
+      "unchanged": 148,
+      "removed_obsolete": 0,
+      "actual": 148
+    },
+    "00149655": {
+      "expected": 227,
+      "updated": 0,
+      "unchanged": 227,
+      "removed_obsolete": 0,
+      "actual": 227
+    },
+    "01133217": {
+      "expected": 125,
+      "updated": 0,
+      "unchanged": 125,
+      "removed_obsolete": 0,
+      "actual": 125
+    },
+    "01137383": {
+      "expected": 135,
+      "updated": 0,
+      "unchanged": 135,
+      "removed_obsolete": 0,
+      "actual": 135
+    },
+    "00631518": {
+      "expected": 453,
+      "updated": 0,
+      "unchanged": 453,
+      "removed_obsolete": 0,
+      "actual": 453
+    },
+    "00244455": {
+      "expected": 193,
+      "updated": 0,
+      "unchanged": 193,
+      "removed_obsolete": 0,
+      "actual": 193
+    },
+    "00199252": {
+      "expected": 273,
+      "updated": 0,
+      "unchanged": 273,
+      "removed_obsolete": 0,
+      "actual": 273
+    },
+    "00181712": {
+      "expected": 1437,
+      "updated": 0,
+      "unchanged": 1437,
+      "removed_obsolete": 0,
+      "actual": 1437
+    },
+    "01244601": {
+      "expected": 205,
+      "updated": 0,
+      "unchanged": 205,
+      "removed_obsolete": 0,
+      "actual": 205
+    },
+    "00204262": {
+      "expected": 111,
+      "updated": 0,
+      "unchanged": 111,
+      "removed_obsolete": 0,
+      "actual": 111
+    },
+    "00138279": {
+      "expected": 152,
+      "updated": 0,
+      "unchanged": 152,
+      "removed_obsolete": 0,
+      "actual": 152
+    },
+    "00583424": {
+      "expected": 124,
+      "updated": 0,
+      "unchanged": 124,
+      "removed_obsolete": 0,
+      "actual": 124
+    },
+    "01061327": {
+      "expected": 121,
+      "updated": 0,
+      "unchanged": 121,
+      "removed_obsolete": 0,
+      "actual": 121
+    },
+    "00120021": {
+      "expected": 525,
+      "updated": 0,
+      "unchanged": 525,
+      "removed_obsolete": 0,
+      "actual": 525
+    },
+    "00162461": {
+      "expected": 241,
+      "updated": 0,
+      "unchanged": 241,
+      "removed_obsolete": 0,
+      "actual": 241
+    },
+    "00356370": {
+      "expected": 168,
+      "updated": 0,
+      "unchanged": 168,
+      "removed_obsolete": 0,
+      "actual": 168
+    },
+    "00159102": {
+      "expected": 232,
+      "updated": 0,
+      "unchanged": 232,
+      "removed_obsolete": 0,
+      "actual": 232
+    },
+    "00190321": {
+      "expected": 259,
+      "updated": 0,
+      "unchanged": 259,
+      "removed_obsolete": 0,
+      "actual": 259
+    },
+    "00165413": {
+      "expected": 223,
+      "updated": 0,
+      "unchanged": 223,
+      "removed_obsolete": 0,
+      "actual": 223
+    },
+    "00939331": {
+      "expected": 235,
+      "updated": 0,
+      "unchanged": 235,
+      "removed_obsolete": 0,
+      "actual": 235
+    },
+    "00164973": {
+      "expected": 171,
+      "updated": 0,
+      "unchanged": 171,
+      "removed_obsolete": 0,
+      "actual": 171
+    },
+    "00159023": {
+      "expected": 188,
+      "updated": 0,
+      "unchanged": 188,
+      "removed_obsolete": 0,
+      "actual": 188
+    },
+    "00102858": {
+      "expected": 230,
+      "updated": 0,
+      "unchanged": 230,
+      "removed_obsolete": 0,
+      "actual": 230
+    },
+    "00428251": {
+      "expected": 168,
+      "updated": 0,
+      "unchanged": 168,
+      "removed_obsolete": 0,
+      "actual": 168
+    },
+    "00126256": {
+      "expected": 280,
+      "updated": 0,
+      "unchanged": 280,
+      "removed_obsolete": 0,
+      "actual": 280
+    },
+    "00231363": {
+      "expected": 272,
+      "updated": 0,
+      "unchanged": 272,
+      "removed_obsolete": 0,
+      "actual": 272
+    },
+    "00136378": {
+      "expected": 200,
+      "updated": 0,
+      "unchanged": 200,
+      "removed_obsolete": 0,
+      "actual": 200
+    },
+    "00126186": {
+      "expected": 144,
+      "updated": 0,
+      "unchanged": 144,
+      "removed_obsolete": 0,
+      "actual": 144
+    },
+    "00155276": {
+      "expected": 152,
+      "updated": 0,
+      "unchanged": 152,
+      "removed_obsolete": 0,
+      "actual": 152
+    },
+    "00120526": {
+      "expected": 263,
+      "updated": 0,
+      "unchanged": 263,
+      "removed_obsolete": 0,
+      "actual": 263
+    },
+    "00155212": {
+      "expected": 107,
+      "updated": 0,
+      "unchanged": 107,
+      "removed_obsolete": 0,
+      "actual": 107
+    },
+    "00872984": {
+      "expected": 276,
+      "updated": 0,
+      "unchanged": 276,
+      "removed_obsolete": 0,
+      "actual": 276
+    },
+    "00120182": {
+      "expected": 510,
+      "updated": 0,
+      "unchanged": 510,
+      "removed_obsolete": 0,
+      "actual": 510
+    },
+    "00362441": {
+      "expected": 104,
+      "updated": 0,
+      "unchanged": 104,
+      "removed_obsolete": 0,
+      "actual": 104
+    },
+    "00126478": {
+      "expected": 105,
+      "updated": 0,
+      "unchanged": 105,
+      "removed_obsolete": 0,
+      "actual": 105
+    },
+    "01263022": {
+      "expected": 151,
+      "updated": 0,
+      "unchanged": 151,
+      "removed_obsolete": 0,
+      "actual": 151
+    },
+    "00357740": {
+      "expected": 97,
+      "updated": 0,
+      "unchanged": 97,
+      "removed_obsolete": 0,
+      "actual": 97
+    },
+    "00164830": {
+      "expected": 208,
+      "updated": 0,
+      "unchanged": 208,
+      "removed_obsolete": 0,
+      "actual": 208
+    },
+    "00140177": {
+      "expected": 195,
+      "updated": 0,
+      "unchanged": 195,
+      "removed_obsolete": 0,
+      "actual": 195
+    },
+    "00104856": {
+      "expected": 208,
+      "updated": 0,
+      "unchanged": 208,
+      "removed_obsolete": 0,
+      "actual": 208
+    },
+    "00372882": {
+      "expected": 124,
+      "updated": 0,
+      "unchanged": 124,
+      "removed_obsolete": 0,
+      "actual": 124
+    },
+    "00111704": {
+      "expected": 172,
+      "updated": 0,
+      "unchanged": 172,
+      "removed_obsolete": 0,
+      "actual": 172
+    },
+    "00165680": {
+      "expected": 113,
+      "updated": 0,
+      "unchanged": 113,
+      "removed_obsolete": 0,
+      "actual": 113
+    },
+    "00296290": {
+      "expected": 323,
+      "updated": 0,
+      "unchanged": 323,
+      "removed_obsolete": 0,
+      "actual": 323
+    },
+    "00476498": {
+      "expected": 118,
+      "updated": 0,
+      "unchanged": 118,
+      "removed_obsolete": 0,
+      "actual": 118
+    },
+    "01390344": {
+      "expected": 179,
+      "updated": 0,
+      "unchanged": 179,
+      "removed_obsolete": 0,
+      "actual": 179
+    },
+    "00298270": {
+      "expected": 91,
+      "updated": 0,
+      "unchanged": 91,
+      "removed_obsolete": 0,
+      "actual": 91
+    },
+    "00159616": {
+      "expected": 221,
+      "updated": 0,
+      "unchanged": 221,
+      "removed_obsolete": 0,
+      "actual": 221
+    },
+    "00260930": {
+      "expected": 128,
+      "updated": 0,
+      "unchanged": 128,
+      "removed_obsolete": 0,
+      "actual": 128
+    },
+    "00432102": {
+      "expected": 269,
+      "updated": 0,
+      "unchanged": 269,
+      "removed_obsolete": 0,
+      "actual": 269
+    },
+    "00105873": {
+      "expected": 184,
+      "updated": 0,
+      "unchanged": 184,
+      "removed_obsolete": 0,
+      "actual": 184
+    },
+    "00309503": {
+      "expected": 161,
+      "updated": 0,
+      "unchanged": 161,
+      "removed_obsolete": 0,
+      "actual": 161
+    },
+    "00258689": {
+      "expected": 104,
+      "updated": 0,
+      "unchanged": 104,
+      "removed_obsolete": 0,
+      "actual": 104
+    },
+    "00105961": {
+      "expected": 124,
+      "updated": 0,
+      "unchanged": 124,
+      "removed_obsolete": 0,
+      "actual": 124
+    },
+    "00613318": {
+      "expected": 118,
+      "updated": 0,
+      "unchanged": 118,
+      "removed_obsolete": 0,
+      "actual": 118
+    },
+    "00126371": {
+      "expected": 136,
+      "updated": 0,
+      "unchanged": 136,
+      "removed_obsolete": 0,
+      "actual": 136
+    },
+    "00503668": {
+      "expected": 125,
+      "updated": 0,
+      "unchanged": 125,
+      "removed_obsolete": 0,
+      "actual": 125
+    },
+    "01204056": {
+      "expected": 125,
+      "updated": 0,
+      "unchanged": 125,
+      "removed_obsolete": 0,
+      "actual": 125
+    },
+    "00401731": {
+      "expected": 211,
+      "updated": 0,
+      "unchanged": 211,
+      "removed_obsolete": 0,
+      "actual": 211
+    },
+    "00302926": {
+      "expected": 129,
+      "updated": 0,
+      "unchanged": 129,
+      "removed_obsolete": 0,
+      "actual": 129
+    },
+    "01596425": {
+      "expected": 176,
+      "updated": 0,
+      "unchanged": 176,
+      "removed_obsolete": 0,
+      "actual": 176
+    }
+  },
+  "company_collection": "company_meta_bb94416ac449",
+  "document_collection": "disclosure_docs_bb94416ac449_c36c1707fb13",
+  "indexed_company_reports": 100,
+  "document_chunk_count": 21374,
+  "embedding_usage": {
+    "embedding_model": "text-embedding-3-large",
+    "dimensions": 3072,
+    "api_requests_this_run": 0,
+    "new_embedding_inputs": 0,
+    "cache_hits": 0,
+    "provider_reported_tokens": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "ready_companies": 100,
+  "pipeline_seconds": 51.36,
+  "canonical_full_sections": 4856,
+  "canonical_full_chunks": 120008,
+  "large_existing_chunks": 21374,
+  "small_canonical_expansion_chunks": 98634,
+  "actual_store_counts": {
+    "large": 21374,
+    "small": 99205
+  },
+  "additional_selected_receipts": [
+    "20260814000011"
+  ],
+  "retrieval_models": [
+    "text-embedding-3-large",
+    "text-embedding-3-small"
+  ],
+  "idempotency_api_requests": 0
+}

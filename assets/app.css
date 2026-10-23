@@ -1,0 +1,192 @@
+/* Font sources and terms: docs/FONT_LICENSES.md */
+
+@font-face { font-family: "CareerBody"; src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-SemiBold.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "CareerHeading"; src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-Ganpan.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+
+/* Keep typography at 120%; sky-blue sidebar and pink main controls. */
+html { font-size: 120% !important; }
+:root { --career-primary: #ffc2d1; --career-background: #ffffff; --career-field: #ffe5ec; --career-sidebar: #edf2fb; --career-sidebar-border: #ccdbfd; --career-sidebar-selected: #ccdbfd; --career-sidebar-hover: #ccdbfd; --career-border: #ffc2d1; --career-selected: #ffc2d1; --career-accent-ink: #ad426d; --career-ink: #211938; --career-muted: #697386; --career-on-primary: #211938; --career-body-font: "CareerBody", "Malgun Gothic", "Segoe UI", sans-serif; --career-heading-font: "CareerHeading", "Malgun Gothic", sans-serif; }
+
+html, body, .stApp { font-family: var(--career-body-font); font-weight: 600; }
+
+.stApp p, .stApp li, .stApp label, .stApp input, .stApp textarea, .stApp button,
+
+.stApp [data-baseweb="select"], .stApp [data-baseweb="select"] input,
+
+.stApp [data-testid="stCaptionContainer"], .stApp [data-testid="stCaptionContainer"] p,
+
+.stApp p strong, .stApp p b, .stApp li strong, .stApp li b {
+
+    font-family: var(--career-body-font) !important;
+
+    font-weight: 600 !important;
+
+}
+
+/* Custom HTML and plain-text elements do not inherit the paragraph font rules. */
+
+.stApp .career-byline, .stApp .career-eyebrow, .stApp .career-intro,
+
+.stApp .career-badge, .stApp .career-answer-label,
+
+.stApp .career-small, .stApp .career-subtle, .stApp .career-source-title,
+
+.stApp .career-stats, .stApp .career-stats span, .stApp .career-stats strong,
+
+.stApp [data-testid="stText"], .stApp [data-testid="stText"] span, .stApp code {
+
+    font-family: var(--career-body-font) !important;
+
+    font-weight: 600 !important;
+
+}
+
+.stApp { background: var(--career-background); color: var(--career-ink); }
+
+.block-container { max-width: 1260px; padding: 2rem 2.4rem 2.5rem; }
+
+[data-testid="stSidebar"] { background: var(--career-sidebar); border-right: 1px solid var(--career-sidebar-border); }
+
+[data-testid="stSidebar"] > div:first-child { padding-top: 1.6rem; }
+
+[data-testid="stSidebarUserContent"] { padding-top: 1.2rem; }
+
+[data-testid="stSidebar"] h3 { font-size: .93rem; }
+
+[data-testid="stSidebar"] .stButton button { text-align: left; }
+
+[data-testid="stSidebar"] [data-baseweb="select"] > div { background: var(--career-sidebar-selected); border-color: var(--career-sidebar-selected); }
+
+[data-testid="stHeader"] { background: transparent; }
+
+h1,h2,h3, .career-wordmark, .career-question-label, .career-question { font-family: var(--career-heading-font) !important; font-weight: 400 !important; letter-spacing: -.02em; color: var(--career-ink); }
+
+h1 { font-size: 2.15rem !important; }
+
+h2 { font-size: 1.35rem !important; }
+
+h3 { font-size: 1.05rem !important; }
+
+p,li { line-height: 1.8; }
+
+.career-brand { margin: .3rem 0 1.2rem; }
+
+.career-wordmark { font-size: 1.5rem; letter-spacing: -.02em; }
+
+.career-byline { color: var(--career-muted); font-size: .75rem; margin-top: 2px; }
+
+.career-eyebrow { color: #ff8fab; font-size: .73rem; letter-spacing: .14em; font-weight: 600; margin-bottom: .45rem; }
+
+.career-header h1 { margin: 0; padding: .25rem 0 .5rem; }
+
+.career-intro { color: var(--career-muted); font-size: .95rem; margin-bottom: 1rem; }
+
+.career-badges { display: flex; gap: 7px; align-items: center; flex-wrap: wrap; margin: .2rem 0 1.7rem; }
+
+.career-badge { background: var(--career-border); color: var(--career-ink); border-radius: 6px; padding: 4px 9px; font-size: .75rem; font-weight: 600; }
+
+.career-badge.ready { color: var(--career-ink); background: var(--career-selected); }
+
+.career-question-label { font-size: 1.05rem; font-weight: 700; margin-bottom: .4rem; }
+
+.career-small { color: var(--career-muted); font-size: .79rem; }
+
+.career-answer-label { display: flex; gap: 8px; align-items: center; font-size: .73rem; letter-spacing: .04em; font-weight: 600; color: var(--career-accent-ink); margin-bottom: .75rem; }
+
+.career-question { border-left: 3px solid var(--career-primary); padding-left: 12px; margin: 0 0 1rem; font-size: 1.02rem; font-weight: 650; line-height: 1.65; }
+
+.career-subtle { color: var(--career-muted); font-size: .78rem; }
+
+.career-source-title { font-weight: 600; font-size: .9rem; }
+
+[data-testid="stVerticalBlockBorderWrapper"] > div { border-color: var(--career-border); border-radius: 14px; background: #fff; }
+
+.st-key-ui_question_card, .st-key-ui_answer_card, .st-key-ui_guide_card, .st-key-ui_briefing_card { background: #fff; border-color: var(--career-border); border-radius: 13px; }
+
+[data-testid="stForm"] { border: 0; padding: 0; }
+
+.stButton button, .stFormSubmitButton button, .stDownloadButton button { border-radius: 9px; font-weight: 600; min-height: 42px; }
+
+
+
+
+
+
+
+[data-testid="stBaseButton-primary"] p, [data-testid="stBaseButton-primaryFormSubmit"] p { color: inherit; }
+
+
+
+[data-testid="stTextArea"] textarea { background: var(--career-field); border-radius: 9px; line-height: 1.7; }
+
+[data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] *, .stCaption, .stCaption * { color: var(--career-muted) !important; }
+
+[data-testid="stMarkdownContainer"] sup, [data-testid="stMarkdownContainer"] a { color: var(--career-accent-ink); }
+
+.career-stats { display:flex; justify-content:space-between; padding:.7rem 0; color:var(--career-muted); font-size:.78rem; border-bottom:1px solid var(--career-border); }
+
+.career-stats strong { color:var(--career-ink); font-weight:600; }
+
+@media (max-width: 900px) { .block-container { padding: 1.5rem 1.2rem; } }
+
+@media (max-width: 640px) { .block-container { padding: 1rem; } h1 { font-size: 1.8rem !important; } .career-badges { margin-bottom: 1rem; } }
+
+
+/* One fill variable keeps button backgrounds and borders identical in every state. */
+.stApp :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a) {
+    --career-button-fill: var(--career-field);
+    background-color: var(--career-button-fill) !important;
+    border: 1px solid var(--career-button-fill) !important;
+    color: var(--career-on-primary);
+}
+.stApp :is(.stButton, .stFormSubmitButton) :is([data-testid="stBaseButton-primary"], [data-testid="stBaseButton-primaryFormSubmit"]) {
+    --career-button-fill: var(--career-primary);
+}
+.stApp :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a):not(:disabled):hover,
+.stApp :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a):not(:disabled):active {
+    --career-button-fill: var(--career-selected);
+}
+.stApp :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a):disabled {
+    --career-button-fill: #f8e8ee;
+}
+.stApp [data-testid="stSidebar"] :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a) {
+    --career-button-fill: var(--career-sidebar-selected);
+}
+.stApp [data-testid="stSidebar"] :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a):not(:disabled):hover,
+.stApp [data-testid="stSidebar"] :is(.stButton, .stFormSubmitButton, .stDownloadButton, .stLinkButton) :is(button, a):not(:disabled):active {
+    --career-button-fill: var(--career-sidebar-hover);
+}
+[data-testid="stSidebar"] .career-stats { border-color: var(--career-sidebar-border); }
+[data-testid="stSidebar"] hr { border-color: var(--career-sidebar-border); }
+[data-testid="stTextArea"] [data-baseweb="textarea"],
+.stMain [data-testid="stTextInput"] [data-baseweb="input"] { border-color: var(--career-border); }
+.stMain [data-testid="stTextInput"] input { background-color: var(--career-field); }
+
+/* Main disclosure toggles use pink, while font attribution keeps a neutral border. */
+.stApp [data-testid="stExpander"] details,
+.stApp [data-testid="stExpander"] summary { border-color: var(--career-border); }
+.stApp .st-key-ui_font_license details,
+.stApp .st-key-ui_font_license summary { border-color: #d1d5db; }
+.stApp .st-key-ui_font_license [data-testid="stExpanderDetails"] [data-testid="stMarkdownContainer"],
+.stApp .st-key-ui_font_license [data-testid="stExpanderDetails"] :is(p, a, strong, b, li, code) {
+    font-size: 16px !important;
+    line-height: 1.7;
+}
+
+/* Suggested questions keep white fills and blue borders in every state. */
+.stApp [class*="st-key-ui_starter_"] button,
+.stApp [class*="st-key-ui_follow_"] button {
+    background-color: #ffffff !important;
+    border-color: #ccdbfd !important;
+}
+
+/* React Aria sidebar company selector. */
+.stApp [data-testid="stSidebar"] .react-aria-ComboBox [role="group"] {
+    background-color: var(--career-sidebar-selected);
+    border-color: var(--career-sidebar-selected);
+}
+.stApp [data-testid="stSidebar"] .react-aria-ComboBox :is(input, button) {
+    background-color: var(--career-sidebar-selected);
+    border-color: var(--career-sidebar-selected);
+}

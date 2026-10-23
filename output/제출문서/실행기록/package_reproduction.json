@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "external_api_calls": 0,
+  "location": "isolated ZIP extraction",
+  "secret_files_present": false,
+  "database_included": false,
+  "checks": [
+    {
+      "check": "dataset",
+      "exit_code": 0,
+      "summary": "  \"corpus_is_chunked\": false,\n  \"embedding_or_indexing_performed\": false\n}"
+    },
+    {
+      "check": "base_chunks",
+      "exit_code": 0,
+      "summary": "  \"api_calls\": 0,\n  \"issues\": []\n}"
+    },
+    {
+      "check": "prepare_full",
+      "exit_code": 0,
+      "summary": "CHUNKS_READY companies=100 chunks=120008 profile=9f92ec141d8e\nPILOT 주식회사 카카오뱅크 chunks=919"
+    },
+    {
+      "check": "full_chunks",
+      "exit_code": 0,
+      "summary": "  \"api_calls\": 0,\n  \"issues\": []\n}"
+    },
+    {
+      "check": "combined_scope",
+      "exit_code": 0,
+      "summary": "  ],\n  \"issues\": []\n}"
+    },
+    {
+      "check": "tests",
+      "exit_code": 0,
+      "summary": "........................................................................ [ 54%]\n............................................................             [100%]\n132 passed in 8.63s"
+    }
+  ]
+}

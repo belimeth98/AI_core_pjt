@@ -1,0 +1,33 @@
+﻿파일명,구분,관련 체크 번호
+01-overview.png,실제 로컬 앱/실제 저장 응답,1
+02-answer.png,실제 로컬 앱/실제 저장 응답,8
+03-evidence.png,실제 로컬 앱/실제 저장 응답,8
+04-briefing.png,실제 로컬 앱/실제 저장 응답,12
+05-company-search.png,실제 로컬 앱/실제 저장 응답,11
+06-history-other-company.png,실제 로컬 앱/실제 저장 응답,10
+07-progress.png,실제 로컬 앱/실제 저장 응답,13
+08-no-index-simulated.png,격리 모의 화면,13
+09-missing-key-simulated.png,격리 모의 화면,"13, 21"
+10-uncited-simulated.png,격리 모의 화면,9
+11-mixed-answer.png,실제 로컬 앱/실제 저장 응답,
+12-quarterly-evidence.png,실제 로컬 앱/실제 저장 응답,8
+13-financial-notice.png,실제 로컬 앱/실제 저장 응답,14
+collection.py,실행 기록·코드·비교 문서,23
+comparison.json,실행 기록·코드·비교 문서,"9, 17, 20"
+data_sources.md,실행 기록·코드·비교 문서,24
+expansion_validation.json,실행 기록·코드·비교 문서,1
+FONT_LICENSES.md,실행 기록·코드·비교 문서,24
+graph.mmd,실행 기록·코드·비교 문서,7
+idempotency.json,실행 기록·코드·비교 문서,2
+index_integrity.json,실행 기록·코드·비교 문서,1
+package_validation.json,실행 기록·코드·비교 문서,21
+probe.json,실행 기록·코드·비교 문서,"4, 5, 6"
+qa_graph.py,실행 기록·코드·비교 문서,7
+RAG전후5문항비교.md,실행 기록·코드·비교 문서,"17, 18"
+required_completion.json,실행 기록·코드·비교 문서,"20, 25"
+required_idempotency.json,실행 기록·코드·비교 문서,2
+required_pipeline_result.json,실행 기록·코드·비교 문서,"3, 8"
+test_results.csv,실행 기록·코드·비교 문서,"4, 10, 21, 25"
+vector_store.py,실행 기록·코드·비교 문서,23
+기업_메타데이터_예시.json,실행 기록·코드·비교 문서,1
+모듈구성.txt,실행 기록·코드·비교 문서,22

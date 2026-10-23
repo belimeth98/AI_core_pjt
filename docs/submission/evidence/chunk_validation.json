@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "company_count": 100,
+  "section_count": 4856,
+  "chunk_count": 120008,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "omitted_boundary_whitespace_characters": 355,
+  "api_calls": 0,
+  "issues": []
+}

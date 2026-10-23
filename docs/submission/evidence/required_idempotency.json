@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "api_requests": 0,
+  "new_embedding_inputs": 0,
+  "reports": [
+    {
+      "corp_code": "01133217",
+      "receipt_no": "20260318000884",
+      "chunk_count": 125,
+      "chunk_file_sha256": "27cba1e63089a69e49acb2c9e2689452ef6e5bfcc011e7904132fe2378aa5b8a",
+      "status": "matched",
+      "sync": {
+        "expected": 125,
+        "updated": 0,
+        "unchanged": 125,
+        "removed_obsolete": 0,
+        "actual": 125
+      }
+    },
+    {
+      "corp_code": "01133217",
+      "receipt_no": "20260814000011",
+      "chunk_count": 571,
+      "chunk_file_sha256": "3924911f3bdda76ba7391cdd14192118874cd74b119d903f6ccfe16bd1c95547",
+      "status": "matched",
+      "sync": {
+        "expected": 571,
+        "updated": 0,
+        "unchanged": 571,
+        "removed_obsolete": 0,
+        "actual": 571
+      }
+    }
+  ],
+  "verified": [
+    {
+      "corp_code": "01133217",
+      "receipt_no": "20260318000884",
+      "chunk_count": 125,
+      "chunk_file_sha256": "27cba1e63089a69e49acb2c9e2689452ef6e5bfcc011e7904132fe2378aa5b8a",
+      "status": "matched"
+    },
+    {
+      "corp_code": "01133217",
+      "receipt_no": "20260814000011",
+      "chunk_count": 571,
+      "chunk_file_sha256": "3924911f3bdda76ba7391cdd14192118874cd74b119d903f6ccfe16bd1c95547",
+      "status": "matched"
+    }
+  ]
+}

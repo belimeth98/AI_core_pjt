@@ -1,0 +1,78 @@
+{
+  "validated_at": "2026-10-23T02:02:54.424922+00:00",
+  "passed": true,
+  "company_count": 100,
+  "report_count": 100,
+  "document_count": 100,
+  "section_count": 4856,
+  "table_count": 221216,
+  "full_text_characters": 80235841,
+  "rag_section_count": 4856,
+  "rag_text_characters": 80060273,
+  "raw_source_sample_checks": [
+    {
+      "corp_code": "00126380",
+      "company": "삼성전자(주)",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00164742",
+      "company": "현대자동차(주)",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00126955",
+      "company": "삼양식품(주)",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00877059",
+      "company": "삼성바이오로직스(주)",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00113526",
+      "company": "(주)대한항공",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00382199",
+      "company": "(주)신한금융지주회사",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00106641",
+      "company": "기아(주)",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00108241",
+      "company": "(주)농심",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00413046",
+      "company": "(주)셀트리온",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00547583",
+      "company": "(주)하나금융지주",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00266961",
+      "company": "네이버(주)",
+      "paragraphs_checked": 5
+    },
+    {
+      "corp_code": "00138792",
+      "company": "아시아나항공(주)",
+      "paragraphs_checked": 5
+    }
+  ],
+  "problems": [],
+  "corpus_scope": "full",
+  "corpus_is_chunked": false,
+  "embedding_or_indexing_performed": false
+}

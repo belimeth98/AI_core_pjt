@@ -1,0 +1,20 @@
+{
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "top_k": 5,
+  "search_mode": "hybrid",
+  "candidate_k": 20,
+  "embedding_batch_size": 16,
+  "embedding_dimensions": 3072,
+  "max_input_utf8_bytes": 7500,
+  "request_gap_seconds": 0.5,
+  "pilot_corp_code": "01133217",
+  "database_path": "data/chroma",
+  "embedding_cache_path": "data/private/embedding_cache",
+  "allow_document_embedding": true,
+  "full_text_expansion": {
+    "enabled": true,
+    "embedding_model": "text-embedding-3-small",
+    "embedding_dimensions": 1536
+  }
+}

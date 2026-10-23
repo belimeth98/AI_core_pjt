@@ -1,0 +1,617 @@
+{
+  "verified_at": "2026-10-23T01:01:54.458530+00:00",
+  "passed": true,
+  "company_count": 100,
+  "ready_count": 100,
+  "metadata_count": 100,
+  "document_chunk_count": 21374,
+  "embedding_model": "text-embedding-3-large",
+  "embedding_profile": "bb94416ac449",
+  "vector_dimension": 3072,
+  "vector_samples_checked": 100,
+  "all_document_text_and_metadata_checked": true,
+  "companies": [
+    {
+      "corp_code": "00126380",
+      "corp_name": "삼성전자(주)",
+      "chunk_count": 296,
+      "receipt_no": "20260310002820"
+    },
+    {
+      "corp_code": "00164742",
+      "corp_name": "현대자동차(주)",
+      "chunk_count": 234,
+      "receipt_no": "20260318001394"
+    },
+    {
+      "corp_code": "00126955",
+      "corp_name": "삼양식품(주)",
+      "chunk_count": 141,
+      "receipt_no": "20260318001082"
+    },
+    {
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스(주)",
+      "chunk_count": 136,
+      "receipt_no": "20260515001658"
+    },
+    {
+      "corp_code": "00113526",
+      "corp_name": "(주)대한항공",
+      "chunk_count": 218,
+      "receipt_no": "20260318001125"
+    },
+    {
+      "corp_code": "00382199",
+      "corp_name": "(주)신한금융지주회사",
+      "chunk_count": 519,
+      "receipt_no": "20261007000218"
+    },
+    {
+      "corp_code": "00106641",
+      "corp_name": "기아(주)",
+      "chunk_count": 151,
+      "receipt_no": "20260312001224"
+    },
+    {
+      "corp_code": "00108241",
+      "corp_name": "(주)농심",
+      "chunk_count": 138,
+      "receipt_no": "20260311003892"
+    },
+    {
+      "corp_code": "00413046",
+      "corp_name": "(주)셀트리온",
+      "chunk_count": 202,
+      "receipt_no": "20260316001415"
+    },
+    {
+      "corp_code": "00547583",
+      "corp_name": "(주)하나금융지주",
+      "chunk_count": 466,
+      "receipt_no": "20260814004019"
+    },
+    {
+      "corp_code": "00266961",
+      "corp_name": "네이버(주)",
+      "chunk_count": 175,
+      "receipt_no": "20260313001021"
+    },
+    {
+      "corp_code": "00164788",
+      "corp_name": "현대모비스(주)",
+      "chunk_count": 163,
+      "receipt_no": "20260309001878"
+    },
+    {
+      "corp_code": "01238169",
+      "corp_name": "(주)오리온",
+      "chunk_count": 176,
+      "receipt_no": "20260318001320"
+    },
+    {
+      "corp_code": "00138792",
+      "corp_name": "아시아나항공(주)",
+      "chunk_count": 156,
+      "receipt_no": "20260318001045"
+    },
+    {
+      "corp_code": "01350869",
+      "corp_name": "(주)우리금융지주",
+      "chunk_count": 528,
+      "receipt_no": "20260313001235"
+    },
+    {
+      "corp_code": "00258801",
+      "corp_name": "(주)카카오",
+      "chunk_count": 239,
+      "receipt_no": "20260318001423"
+    },
+    {
+      "corp_code": "00536541",
+      "corp_name": "(주)에코프로",
+      "chunk_count": 212,
+      "receipt_no": "20260318001612"
+    },
+    {
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당(주)",
+      "chunk_count": 191,
+      "receipt_no": "20260316001116"
+    },
+    {
+      "corp_code": "00129679",
+      "corp_name": "(주)녹십자",
+      "chunk_count": 359,
+      "receipt_no": "20260318001316"
+    },
+    {
+      "corp_code": "00122737",
+      "corp_name": "팬오션(주)",
+      "chunk_count": 131,
+      "receipt_no": "20260319001097"
+    },
+    {
+      "corp_code": "00149646",
+      "corp_name": "중소기업은행",
+      "chunk_count": 215,
+      "receipt_no": "20260318000761"
+    },
+    {
+      "corp_code": "00261443",
+      "corp_name": "(주)엔씨",
+      "chunk_count": 132,
+      "receipt_no": "20260318001448"
+    },
+    {
+      "corp_code": "01160363",
+      "corp_name": "(주)에코프로비엠",
+      "chunk_count": 112,
+      "receipt_no": "20260318001622"
+    },
+    {
+      "corp_code": "00120571",
+      "corp_name": "롯데칠성음료(주)",
+      "chunk_count": 150,
+      "receipt_no": "20260311004566"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "(주)유한양행",
+      "chunk_count": 242,
+      "receipt_no": "20260312001236"
+    },
+    {
+      "corp_code": "00113410",
+      "corp_name": "씨제이대한통운(주)",
+      "chunk_count": 138,
+      "receipt_no": "20260316001417"
+    },
+    {
+      "corp_code": "00858364",
+      "corp_name": "(주)BNK금융지주",
+      "chunk_count": 453,
+      "receipt_no": "20260318001147"
+    },
+    {
+      "corp_code": "00904672",
+      "corp_name": "넷마블(주)",
+      "chunk_count": 152,
+      "receipt_no": "20260318001170"
+    },
+    {
+      "corp_code": "00356361",
+      "corp_name": "(주)LG화학",
+      "chunk_count": 213,
+      "receipt_no": "20260313001195"
+    },
+    {
+      "corp_code": "01258507",
+      "corp_name": "롯데웰푸드(주)",
+      "chunk_count": 183,
+      "receipt_no": "20260312000907"
+    },
+    {
+      "corp_code": "00878696",
+      "corp_name": "에스케이바이오팜 주식회사",
+      "chunk_count": 151,
+      "receipt_no": "20260318000773"
+    },
+    {
+      "corp_code": "00360595",
+      "corp_name": "현대글로비스(주)",
+      "chunk_count": 171,
+      "receipt_no": "20260318001205"
+    },
+    {
+      "corp_code": "00878915",
+      "corp_name": "(주)아이엠금융지주",
+      "chunk_count": 308,
+      "receipt_no": "20260515000720"
+    },
+    {
+      "corp_code": "01152470",
+      "corp_name": "주식회사 펄어비스",
+      "chunk_count": 129,
+      "receipt_no": "20260319001336"
+    },
+    {
+      "corp_code": "00126362",
+      "corp_name": "삼성SDI(주)",
+      "chunk_count": 167,
+      "receipt_no": "20260310002954"
+    },
+    {
+      "corp_code": "00141529",
+      "corp_name": "(주)오뚜기",
+      "chunk_count": 145,
+      "receipt_no": "20260318000621"
+    },
+    {
+      "corp_code": "00888347",
+      "corp_name": "휴젤(주)",
+      "chunk_count": 176,
+      "receipt_no": "20260320000349"
+    },
+    {
+      "corp_code": "00124504",
+      "corp_name": "(주)포스코인터내셔널",
+      "chunk_count": 229,
+      "receipt_no": "20260318001494"
+    },
+    {
+      "corp_code": "01515323",
+      "corp_name": "(주)엘지에너지솔루션",
+      "chunk_count": 130,
+      "receipt_no": "20260312000217"
+    },
+    {
+      "corp_code": "00989619",
+      "corp_name": "(주)알테오젠",
+      "chunk_count": 148,
+      "receipt_no": "20260323001596"
+    },
+    {
+      "corp_code": "00149655",
+      "corp_name": "삼성물산(주)",
+      "chunk_count": 227,
+      "receipt_no": "20260312000856"
+    },
+    {
+      "corp_code": "01133217",
+      "corp_name": "주식회사 카카오뱅크",
+      "chunk_count": 125,
+      "receipt_no": "20260318000884"
+    },
+    {
+      "corp_code": "01137383",
+      "corp_name": "(주)카카오게임즈",
+      "chunk_count": 135,
+      "receipt_no": "20260318001659"
+    },
+    {
+      "corp_code": "00631518",
+      "corp_name": "SK이노베이션(주)",
+      "chunk_count": 453,
+      "receipt_no": "20260316000827"
+    },
+    {
+      "corp_code": "00244455",
+      "corp_name": "(주)케이티앤지",
+      "chunk_count": 193,
+      "receipt_no": "20260318001422"
+    },
+    {
+      "corp_code": "00199252",
+      "corp_name": "에이치엘비(주)",
+      "chunk_count": 273,
+      "receipt_no": "20260323001673"
+    },
+    {
+      "corp_code": "00181712",
+      "corp_name": "SK(주)",
+      "chunk_count": 1437,
+      "receipt_no": "20260318001157"
+    },
+    {
+      "corp_code": "01244601",
+      "corp_name": "주식회사 카카오페이",
+      "chunk_count": 205,
+      "receipt_no": "20260312001366"
+    },
+    {
+      "corp_code": "00204262",
+      "corp_name": "(주)한컴",
+      "chunk_count": 111,
+      "receipt_no": "20260318001305"
+    },
+    {
+      "corp_code": "00138279",
+      "corp_name": "S-Oil(주)",
+      "chunk_count": 152,
+      "receipt_no": "20260320000559"
+    },
+    {
+      "corp_code": "00583424",
+      "corp_name": "(주)아모레퍼시픽",
+      "chunk_count": 124,
+      "receipt_no": "20260318000785"
+    },
+    {
+      "corp_code": "01061327",
+      "corp_name": "(주)클래시스",
+      "chunk_count": 121,
+      "receipt_no": "20260323001541"
+    },
+    {
+      "corp_code": "00120021",
+      "corp_name": "(주)LG",
+      "chunk_count": 525,
+      "receipt_no": "20260318001025"
+    },
+    {
+      "corp_code": "00162461",
+      "corp_name": "한화솔루션(주)",
+      "chunk_count": 241,
+      "receipt_no": "20260325001401"
+    },
+    {
+      "corp_code": "00356370",
+      "corp_name": "(주)LG생활건강",
+      "chunk_count": 168,
+      "receipt_no": "20260316000985"
+    },
+    {
+      "corp_code": "00159102",
+      "corp_name": "DB손해보험(주)",
+      "chunk_count": 232,
+      "receipt_no": "20260331003904"
+    },
+    {
+      "corp_code": "00190321",
+      "corp_name": "(주)케이티",
+      "chunk_count": 259,
+      "receipt_no": "20260323001553"
+    },
+    {
+      "corp_code": "00165413",
+      "corp_name": "롯데케미칼(주)",
+      "chunk_count": 223,
+      "receipt_no": "20260312001296"
+    },
+    {
+      "corp_code": "00939331",
+      "corp_name": "한국콜마(주)",
+      "chunk_count": 235,
+      "receipt_no": "20260318001196"
+    },
+    {
+      "corp_code": "00164973",
+      "corp_name": "현대해상화재보험(주)",
+      "chunk_count": 171,
+      "receipt_no": "20260312001448"
+    },
+    {
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤(주)",
+      "chunk_count": 188,
+      "receipt_no": "20260318000532"
+    },
+    {
+      "corp_code": "00102858",
+      "corp_name": "고려아연(주)",
+      "chunk_count": 230,
+      "receipt_no": "20260813001726"
+    },
+    {
+      "corp_code": "00428251",
+      "corp_name": "(주)현대백화점",
+      "chunk_count": 168,
+      "receipt_no": "20260318001314"
+    },
+    {
+      "corp_code": "00126256",
+      "corp_name": "삼성생명보험(주)",
+      "chunk_count": 280,
+      "receipt_no": "20260331004244"
+    },
+    {
+      "corp_code": "00231363",
+      "corp_name": "(주)LG유플러스",
+      "chunk_count": 272,
+      "receipt_no": "20260313000442"
+    },
+    {
+      "corp_code": "00136378",
+      "corp_name": "(주)신세계",
+      "chunk_count": 200,
+      "receipt_no": "20260316001039"
+    },
+    {
+      "corp_code": "00126186",
+      "corp_name": "삼성에스디에스(주)",
+      "chunk_count": 144,
+      "receipt_no": "20260310002989"
+    },
+    {
+      "corp_code": "00155276",
+      "corp_name": "(주)포스코퓨처엠",
+      "chunk_count": 152,
+      "receipt_no": "20260312000826"
+    },
+    {
+      "corp_code": "00120526",
+      "corp_name": "롯데쇼핑(주)",
+      "chunk_count": 263,
+      "receipt_no": "20260312001405"
+    },
+    {
+      "corp_code": "00155212",
+      "corp_name": "(주)포스코디엑스",
+      "chunk_count": 107,
+      "receipt_no": "20260417000431"
+    },
+    {
+      "corp_code": "00872984",
+      "corp_name": "(주)이마트",
+      "chunk_count": 276,
+      "receipt_no": "20260318001024"
+    },
+    {
+      "corp_code": "00120182",
+      "corp_name": "엔에이치투자증권(주)",
+      "chunk_count": 510,
+      "receipt_no": "20260313000771"
+    },
+    {
+      "corp_code": "00362441",
+      "corp_name": "현대오토에버(주)",
+      "chunk_count": 104,
+      "receipt_no": "20260318001324"
+    },
+    {
+      "corp_code": "00126478",
+      "corp_name": "삼성중공업(주)",
+      "chunk_count": 105,
+      "receipt_no": "20260312001037"
+    },
+    {
+      "corp_code": "01263022",
+      "corp_name": "(주)비지에프리테일",
+      "chunk_count": 151,
+      "receipt_no": "20260318000829"
+    },
+    {
+      "corp_code": "00357740",
+      "corp_name": "엔에이치엔케이씨피 주식회사",
+      "chunk_count": 97,
+      "receipt_no": "20260318000635"
+    },
+    {
+      "corp_code": "00164830",
+      "corp_name": "에이치디한국조선해양(주)",
+      "chunk_count": 208,
+      "receipt_no": "20260320001032"
+    },
+    {
+      "corp_code": "00140177",
+      "corp_name": "(주)지에스리테일",
+      "chunk_count": 195,
+      "receipt_no": "20260311004487"
+    },
+    {
+      "corp_code": "00104856",
+      "corp_name": "삼성증권(주)",
+      "chunk_count": 208,
+      "receipt_no": "20260312001379"
+    },
+    {
+      "corp_code": "00372882",
+      "corp_name": "(주)케이티씨에스",
+      "chunk_count": 124,
+      "receipt_no": "20260323000707"
+    },
+    {
+      "corp_code": "00111704",
+      "corp_name": "한화오션(주)",
+      "chunk_count": 172,
+      "receipt_no": "20260317000644"
+    },
+    {
+      "corp_code": "00165680",
+      "corp_name": "(주)호텔신라",
+      "chunk_count": 113,
+      "receipt_no": "20260311004398"
+    },
+    {
+      "corp_code": "00296290",
+      "corp_name": "키움증권(주)",
+      "chunk_count": 323,
+      "receipt_no": "20260317000838"
+    },
+    {
+      "corp_code": "00476498",
+      "corp_name": "(주)컴투스",
+      "chunk_count": 118,
+      "receipt_no": "20260320001410"
+    },
+    {
+      "corp_code": "01390344",
+      "corp_name": "에이치디현대중공업(주)",
+      "chunk_count": 179,
+      "receipt_no": "20260320000859"
+    },
+    {
+      "corp_code": "00298270",
+      "corp_name": "(주)안랩",
+      "chunk_count": 91,
+      "receipt_no": "20260320000868"
+    },
+    {
+      "corp_code": "00159616",
+      "corp_name": "두산에너빌리티(주)",
+      "chunk_count": 221,
+      "receipt_no": "20260320001246"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "(주)에스엠엔터테인먼트",
+      "chunk_count": 128,
+      "receipt_no": "20260317000781"
+    },
+    {
+      "corp_code": "00432102",
+      "corp_name": "한국투자금융지주(주)",
+      "chunk_count": 269,
+      "receipt_no": "20260319001006"
+    },
+    {
+      "corp_code": "00105873",
+      "corp_name": "엘지디스플레이(주)",
+      "chunk_count": 184,
+      "receipt_no": "20260311003822"
+    },
+    {
+      "corp_code": "00309503",
+      "corp_name": "한국항공우주산업(주)",
+      "chunk_count": 161,
+      "receipt_no": "20260318001461"
+    },
+    {
+      "corp_code": "00258689",
+      "corp_name": "(주)제이와이피엔터테인먼트",
+      "chunk_count": 104,
+      "receipt_no": "20260318001519"
+    },
+    {
+      "corp_code": "00105961",
+      "corp_name": "엘지이노텍(주)",
+      "chunk_count": 124,
+      "receipt_no": "20260312001270"
+    },
+    {
+      "corp_code": "00613318",
+      "corp_name": "(주)와이지엔터테인먼트",
+      "chunk_count": 118,
+      "receipt_no": "20260323001610"
+    },
+    {
+      "corp_code": "00126371",
+      "corp_name": "삼성전기(주)",
+      "chunk_count": 136,
+      "receipt_no": "20260310003071"
+    },
+    {
+      "corp_code": "00503668",
+      "corp_name": "엘아이지디펜스앤에어로스페이스(주)",
+      "chunk_count": 125,
+      "receipt_no": "20260323001211"
+    },
+    {
+      "corp_code": "01204056",
+      "corp_name": "(주)하이브",
+      "chunk_count": 125,
+      "receipt_no": "20260320000802"
+    },
+    {
+      "corp_code": "00401731",
+      "corp_name": "LG전자(주)",
+      "chunk_count": 211,
+      "receipt_no": "20260706000276"
+    },
+    {
+      "corp_code": "00302926",
+      "corp_name": "현대로템(주)",
+      "chunk_count": 129,
+      "receipt_no": "20260319001275"
+    },
+    {
+      "corp_code": "01596425",
+      "corp_name": "에스케이스퀘어 주식회사",
+      "chunk_count": 176,
+      "receipt_no": "20260317000830"
+    }
+  ],
+  "issues": [],
+  "api_calls": 0
+}

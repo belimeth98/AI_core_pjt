@@ -1,0 +1,67 @@
+{
+  "query": "모바일 금융 서비스를 제공하는 기업",
+  "conditions": [
+    "모바일 기반 금융 서비스를 제공하는 기업"
+  ],
+  "matches": [
+    {
+      "corp_code": "01133217",
+      "corp_name": "주식회사 카카오뱅크",
+      "stock_code": "323410",
+      "report_period": "2025.12",
+      "report_source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000884",
+      "stock_name": "카카오뱅크",
+      "reason": "2025.12 기준 인터넷전문은행으로 은행 상품·서비스를 제공하고, 모바일 앱 기반 플랫폼을 통해 금융 관련 서비스를 제공함이 확인됩니다.",
+      "supports": [
+        {
+          "condition": "모바일 기반 금융 서비스를 제공하는 기업",
+          "quote": "당사는 인터넷전문은행으로서 기본적인 여수신 상품을 포함한 은행업 상품 및 서비스를 제공하는 한편, 모바일 앱 기반의 디지털 플랫폼 사업자로서 금융업 뿐 아니라 비금융업 전반에 걸친 여러 파트너사들과 제휴하여 금융과 생활의 영역에서 고객들에게 다각적인 서비스를 제공하고 있습니다."
+        }
+      ]
+    },
+    {
+      "corp_code": "00258801",
+      "corp_name": "(주)카카오",
+      "stock_code": "035720",
+      "report_period": "2025.12",
+      "report_source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001423",
+      "stock_name": "카카오",
+      "reason": "2025.12 기준 종속회사가 모바일·인터넷 기반 금융 사업을 전개함이 확인됩니다. 카카오 본체의 직접 제공이 아닌 종속회사 사업을 포함한 판단입니다.",
+      "supports": [
+        {
+          "condition": "모바일 기반 금융 서비스를 제공하는 기업",
+          "quote": "사업 개요 원문 발췌: 당사가 운영하는 국내 대표 메신저 카카오톡을 비롯해 종속회사는 모바일ㆍ인터넷 기반의 모빌리티, 금융, 게임, 음악, 스토리IP를 주축으로 사업을 전개하고 있습니다."
+        }
+      ]
+    },
+    {
+      "corp_code": "00296290",
+      "corp_name": "키움증권(주)",
+      "stock_code": "039490",
+      "report_period": "2025.12",
+      "report_source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000838",
+      "stock_name": "키움증권",
+      "reason": "2025.12 기준 종속회사 키움예스저축은행이 대출 모바일앱을 열어 가계대출을 확장한 사실이 확인됩니다. 키움증권 본체가 아닌 종속회사 사업을 포함한 판단입니다.",
+      "supports": [
+        {
+          "condition": "모바일 기반 금융 서비스를 제공하는 기업",
+          "quote": "기존의 기업중심의 대출 포트폴리오에서 대출 모바일앱 오픈 및 핀테크 업체와 연계를 통해 가계대출을 꾸준히 확장시켜 금융시장 환경에 맞추어 유연하게 운용할 수 있도록 혼합형 포트폴리오로 변경하여 운영 중에 있습니다."
+        }
+      ]
+    }
+  ],
+  "candidate_count": 12,
+  "matching_candidate_count": 3,
+  "company_count": 100,
+  "searched_at": "2026-10-23T01:24:56.067423+00:00",
+  "cache_hit": true,
+  "chat_api_requests": 0,
+  "embedding_usage": {
+    "embedding_model": "text-embedding-3-large",
+    "dimensions": 3072,
+    "api_requests_this_run": 0,
+    "new_embedding_inputs": 0,
+    "cache_hits": 1,
+    "provider_reported_tokens": 0
+  }
+}

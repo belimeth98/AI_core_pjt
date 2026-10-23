@@ -1,0 +1,13 @@
+{
+  "all_passed": true,
+  "files": {
+    ".env": true,
+    "data/companies.json": true,
+    "data/processed/rag_sections.jsonl": true
+  },
+  "intentional_updates": [
+    "config/retrieval.json",
+    "index completion timestamps"
+  ],
+  "note": "실제 키 값 또는 비밀 파일 해시는 제출 자료에 기록하지 않음. .env는 사용자의 12:05 설정 변경 뒤 기준으로 보존 검사. 채팅 nano / 실제 검증 sol 구분."
+}
